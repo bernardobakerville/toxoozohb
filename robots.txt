@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://enievazas.wangyongtao.com.cn/sitemap.xml
